@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "378607100157",
+    "firebase_url": "https://golike-app.firebaseio.com",
+    "project_id": "golike-app",
+    "storage_bucket": "golike-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378607100157:android:fb295a3ea3424360",
+        "android_client_info": {
+          "package_name": "com.metech.golike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378607100157-0618mog3ssfegaa4qe6vu5gkd1004d9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAdOG0Lj0xTu8D045N54SF3ikFcXXrYe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378607100157-0618mog3ssfegaa4qe6vu5gkd1004d9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378607100157-hspe1aru15jj7fi0pqe99m0nkrne5655.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metech.golike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378607100157:android:4515062957230a16",
+        "android_client_info": {
+          "package_name": "vn.com.evn.edong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378607100157-0618mog3ssfegaa4qe6vu5gkd1004d9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAdOG0Lj0xTu8D045N54SF3ikFcXXrYe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378607100157-0618mog3ssfegaa4qe6vu5gkd1004d9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378607100157-hspe1aru15jj7fi0pqe99m0nkrne5655.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metech.golike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

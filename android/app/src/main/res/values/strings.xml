@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OAS</string>
+    <string name="reactNativeCodePush_androidDeploymentKey">aaaa</string>
+</resources>
